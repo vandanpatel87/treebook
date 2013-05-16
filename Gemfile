@@ -7,6 +7,7 @@ gem 'rails', '3.2.13'
 
 gem 'sqlite3'
 gem 'devise'
+gem 'simple_form'
 
 
 # Gems used only for assets and not required
@@ -37,3 +38,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+group :development do
+  gem 'better_errors'
+end
