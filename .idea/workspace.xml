@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e10555c-9b69-43f7-95dc-cd062200a5e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/statuses/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/statuses/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/statuses/index.html.erb" afterPath="$PROJECT_DIR$/app/views/statuses/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/statuses/show.html.erb" afterPath="$PROJECT_DIR$/app/views/statuses/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/status.rb" afterPath="$PROJECT_DIR$/app/models/status.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
     </list>
     <ignored path="treebook.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7e10555c-9b69-43f7-95dc-cd062200a5e2" time="1368721670167" ignored="false" />
     <file path="/Gemfile" changelist="7e10555c-9b69-43f7-95dc-cd062200a5e2" time="1368738773122" ignored="false" />
-    <file path="/_form.html.erb" changelist="7e10555c-9b69-43f7-95dc-cd062200a5e2" time="1368737960697" ignored="false" />
+    <file path="/_form.html.erb" changelist="7e10555c-9b69-43f7-95dc-cd062200a5e2" time="1368740411971" ignored="false" />
     <file path="/status.rb" changelist="7e10555c-9b69-43f7-95dc-cd062200a5e2" time="1368738614186" ignored="false" />
     <file path="/show.html.erb" changelist="7e10555c-9b69-43f7-95dc-cd062200a5e2" time="1368740026670" ignored="false" />
     <file path="/index.html.erb" changelist="7e10555c-9b69-43f7-95dc-cd062200a5e2" time="1368739989554" ignored="false" />
@@ -47,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/statuses/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="20" selection-start="409" selection-end="409" vertical-scroll-proportion="-8.125">
+            <state line="13" column="68" selection-start="457" selection-end="457" vertical-scroll-proportion="0.25390625">
               <folding />
             </state>
           </provider>
@@ -83,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="20" selection-start="524" selection-end="524" vertical-scroll-proportion="0.20833333">
+            <state line="11" column="20" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,12 +140,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/statuses/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/models/status.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/statuses/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/statuses/show.html.erb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/views/statuses/_form.html.erb" />
       </list>
     </option>
   </component>
@@ -665,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/statuses/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="20" selection-start="409" selection-end="409" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/statuses/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="28" selection-start="81" selection-end="81" vertical-scroll-proportion="-2.5">
@@ -681,7 +668,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="524" selection-end="524" vertical-scroll-proportion="0.20833333">
+        <state line="11" column="20" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/statuses/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="68" selection-start="457" selection-end="457" vertical-scroll-proportion="0.25390625">
           <folding />
         </state>
       </provider>
